@@ -1,4 +1,6 @@
 # restcomm-sdk-python
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Frestcomm-sdk-python.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Frestcomm-sdk-python?ref=badge_shield)
+
 
 Restcomm_Python_SDk is a module for using the *Restcomm Rest API*. The Restcomm REST API allows you to query meta-data about your account, phone numbers, calls, text messages, and recordings. You can also do some communications control like initiate outbound calls and send text messages
 
@@ -55,3 +57,7 @@ you can refer the Documentation at: http://pythonhosted.org/Restcomm_Python_SDk/
 you can also refer Restcomm Documentation at: http://documentation.telestax.com/
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Frestcomm-sdk-python.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Frestcomm-sdk-python?ref=badge_large)
